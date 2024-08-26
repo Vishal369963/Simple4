@@ -1,12 +1,12 @@
-this is first line!
+this is first line-
 
-this is second line!
+this is second line-
 
-third line!
+third line-
 
-fourth line!
+fourth line-
 
 
 
-and a final line! Thats it!
+and a final line- Thats it-
 
